@@ -44,6 +44,90 @@
         ],
         "exclude" : [ ]
       }
+    },
+    {
+      "properties" : {
+        "name" : "BetterFPS",
+        "description" : "Mod that changes how Minecraft calculates sine & cosine, giving a performance boost.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*betterfps*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "FastCraft",
+        "description" : "Sophisticated mod which improves the client and server performance significantly without any gameplay changes.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*fastcraft*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "In-Game Wiki Mod",
+        "description" : "Mod that allows access to a wiki in-game. Supports a handful of other modifications, such as PneumaticCraft and OpenComputers.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*igw-mod*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Waila",
+        "description" : "UI improvement mod aimed at providing block information directly ingame, without the need of opening an interface.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*waila*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Waila Harvestability",
+        "description" : "A client-side add-on for Waila that adds information about the harvestability of what you are looking at. Requires Waila to be installed.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*wailaharvestability*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Not Enough Keys",
+        "description" : "Mods that adds sorting to the controls screen.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*notenoughkeys*"
+        ],
+        "exclude" : [ ]
+      }
     }
   ],
   "userFiles" : {
