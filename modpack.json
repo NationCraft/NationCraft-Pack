@@ -1,0 +1,62 @@
+{
+  "name" : "NationCraft",
+  "title" : "NationCraft",
+  "gameVersion" : "1.7.10",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "JourneyMap",
+        "description" : "Real-time mapping in-game or in your web browser as you explore.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/*journeymap*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Inventory Tweaks",
+        "description" : "Easy management of your inventory.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/*inventorytweaks*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "TC Node Tracker",
+        "description" : "Allows you to automatically keep track of nodes you have scanned with the Thaumometer.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/*tcnodetracker*"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true",
+      "-javaagent:PMLCore/PMLPremain.jar=-MCSide:Client"
+    ]
+  }
+}

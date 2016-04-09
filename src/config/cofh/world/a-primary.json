@@ -1,0 +1,168 @@
+{
+	"pDiamond": {
+        "template": "normal",
+        "block": "minecraft:diamond_ore",
+        "clusterSize": 6,
+        "numClusters": 1,
+        "meanHeight": 8,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pGold": {
+        "template": "normal",
+        "block": "minecraft:gold_ore",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 13,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pLapis": {
+        "template": "normal",
+        "block": "minecraft:lapis_ore",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "meanHeight": 18,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pRedstone": {
+        "template": "normal",
+        "block": "minecraft:redstone_ore",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 10,
+        "maxVariance": 6,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pTin": {
+        "template": "normal",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+        "clusterSize": 12,
+        "numClusters": 1,
+        "meanHeight": 23,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pSilverLead": {
+        "template": "normal",
+        "block": [
+			{"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 6},
+			{"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 3}
+		],
+        "clusterSize": 10,
+        "numClusters": 1,
+        "meanHeight": 28,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pIron": {
+        "template": "normal",
+        "block": "minecraft:iron_ore",
+        "clusterSize": 8,
+        "numClusters": 4,
+        "meanHeight": 33,
+        "maxVariance": 4,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pNickel": {
+        "template": "normal",
+        "block": [
+			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 16},
+			{"name": "ThermalFoundation:Ore", "metadata": 5, "weight": 1}
+		],
+        "clusterSize": 6,
+        "numClusters": 2,
+        "meanHeight": 38,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pCopper": {
+        "template": "normal",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 0},
+        "clusterSize": 10,
+        "numClusters": 2,
+        "meanHeight": 43,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"pAluminum": {
+        "template": "normal",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 48,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

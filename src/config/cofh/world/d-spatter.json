@@ -1,0 +1,50 @@
+{
+	"zxCoal": {
+        "template": "normal",
+        "block": "minecraft:coal_ore",
+        "clusterSize": 12,
+        "numClusters": 8,
+        "meanHeight": 14,
+        "maxVariance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"zyCoal": {
+        "template": "normal",
+        "block": "minecraft:coal_ore",
+        "clusterSize": 12,
+        "numClusters": 8,
+        "meanHeight": 34,
+        "maxVariance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"zzCoal": {
+        "template": "normal",
+        "block": "minecraft:coal_ore",
+        "clusterSize": 10,
+        "numClusters": 8,
+        "meanHeight": 54,
+        "maxVariance": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

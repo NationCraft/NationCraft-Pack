@@ -1,0 +1,17 @@
+[
+  {
+    "address": "irc.esper.net",
+    "nick": "NCBot",
+    "bot": {},
+    "theme": {},
+    "settings": {},
+    "channels": [
+      {
+        "name": "#nationcraftmc",
+        "bot": {},
+        "theme": {},
+        "settings": {}
+      }
+    ]
+  }
+]
