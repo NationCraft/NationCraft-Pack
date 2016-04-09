@@ -9,7 +9,7 @@ There is a strong agricultural and food component (AgriCraft, Pam's HarvestCraft
 All feedback is welcome, feel free to post feature requests and suggestions in addition to bug reports on the [issue tracker](https://github.com/GiovanniPorta/NationCraft-Pack/issues).
 
 ## Mod List
-
+_*optional mod_
 Name | Version
 --- | ---
 Advanced Generators | 0.9.19.120
@@ -32,7 +32,7 @@ Binnie Patcher | 1.6
 Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1826
 Blood Magic | 1.3.3-13
-Bookshel | 1.0.4.187
+Bookshelf | 1.0.4.187
 BuildCraft | 7.1.16
 BuildCraft Compat | 7.1.3
 Carpenter's Blocks | 3.3.7
@@ -130,8 +130,6 @@ Vegan Option | 0.1.2
 Waila* | 1.5.10
 Waila Harvestability* | 1.1.6
 Wireless Redstone CBE | 1.4.1.9
-
-*optional mod
 
 
 
