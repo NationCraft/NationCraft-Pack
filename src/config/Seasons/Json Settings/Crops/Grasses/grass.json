@@ -1,0 +1,2410 @@
+{
+	"Spring": {
+		"Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"River": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Hell": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sky": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenOcean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenRiver": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Mountains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIsland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIslandShore": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"DesertHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"ForestHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"TaigaHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills Edge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Deep Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Stone Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sunflower Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Flower Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains Spikes": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Spruce Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+ M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa (Bryce)": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		}
+	},
+	"Summer": {
+		"Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"River": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Hell": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sky": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenOcean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenRiver": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Mountains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIsland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIslandShore": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"DesertHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"ForestHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"TaigaHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills Edge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Deep Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Stone Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sunflower Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Flower Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains Spikes": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Spruce Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+ M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa (Bryce)": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		}
+	},
+	"Autumn": {
+		"Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"River": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Hell": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sky": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenOcean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenRiver": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Mountains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIsland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIslandShore": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"DesertHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"ForestHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"TaigaHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills Edge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Deep Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Stone Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sunflower Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Flower Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains Spikes": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Spruce Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+ M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa (Bryce)": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		}
+	},
+	"Winter": {
+		"Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"River": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Hell": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sky": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenOcean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"FrozenRiver": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Mountains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIsland": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"MushroomIslandShore": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"DesertHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"ForestHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"TaigaHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills Edge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleHills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Deep Ocean": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Stone Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Beach": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Taiga Hills": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Sunflower Plains": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Desert M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Flower Forest": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Swampland M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Ice Plains Spikes": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Jungle M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"JungleEdge M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Birch Forest Hills M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Roofed Forest M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Cold Taiga M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mega Spruce Taiga": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Extreme Hills+ M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Savanna Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa (Bryce)": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau F M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		},
+		"Mesa Plateau M": {
+			"ReturnToDirtUnderLightLevelAboveBlock": 4,
+			"SpreadAtLightLevelAboveBlock": 9,
+			"SpreadAttemptCount": 4,
+			"SpreadStopsAfterSuccesses": -1,
+			"SpreadAttemptsRestartAtCenter": true,
+			"SpreadAttemptXRange": 1,
+			"SpreadAttemptYRange": 2,
+			"SpreadAttemptZRange": 1
+		}
+	}
+}

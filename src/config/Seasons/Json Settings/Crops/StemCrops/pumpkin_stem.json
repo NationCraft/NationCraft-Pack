@@ -1,0 +1,1690 @@
+{
+	"Spring": {
+		"Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"River": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Hell": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sky": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenOcean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenRiver": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Mountains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIsland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIslandShore": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"DesertHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"ForestHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"TaigaHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills Edge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Deep Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Stone Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sunflower Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Flower Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains Spikes": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Spruce Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+ M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa (Bryce)": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		}
+	},
+	"Summer": {
+		"Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"River": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Hell": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sky": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenOcean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenRiver": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Mountains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIsland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIslandShore": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"DesertHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"ForestHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"TaigaHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills Edge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Deep Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Stone Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sunflower Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Flower Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains Spikes": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Spruce Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+ M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa (Bryce)": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		}
+	},
+	"Autumn": {
+		"Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"River": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Hell": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sky": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenOcean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenRiver": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Mountains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIsland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIslandShore": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"DesertHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"ForestHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"TaigaHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills Edge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Deep Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Stone Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sunflower Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Flower Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains Spikes": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Spruce Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+ M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa (Bryce)": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		}
+	},
+	"Winter": {
+		"Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"River": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Hell": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sky": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenOcean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"FrozenRiver": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Mountains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIsland": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"MushroomIslandShore": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"DesertHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"ForestHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"TaigaHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills Edge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleHills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Deep Ocean": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Stone Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Beach": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Taiga Hills": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Sunflower Plains": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Desert M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Flower Forest": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Swampland M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Ice Plains Spikes": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Jungle M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"JungleEdge M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Birch Forest Hills M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Roofed Forest M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Cold Taiga M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mega Spruce Taiga": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Extreme Hills+ M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Savanna Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa (Bryce)": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau F M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		},
+		"Mesa Plateau M": {
+			"CropGrowthBuff": [1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0],
+			"UsesBonemealBase": [true,true,true,true,true,true,true,true],
+			"BonemealBuffChance": [0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5],
+			"BonemealBuffCount": [0,0,0,0,0,0,0,0],
+			"BonemealCanFinishGrowth": [true,true,true,true,true,true,true,true]
+		}
+	}
+}
