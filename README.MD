@@ -110,6 +110,7 @@ RailCraft | 9.10
 Random Things | 2.2.4
 Recurrent Complex | 0.9.6.3
 RFTools | 4.23
+Seasons Mod | pre-3.0beta12d
 Spice of Life | 1.3.1
 Stacks on Stacks | 2.4.3
 Storage Drawers | 1.9.7
