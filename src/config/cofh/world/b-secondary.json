@@ -12,7 +12,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sGold": {
@@ -28,7 +31,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sLapis": {
@@ -44,7 +50,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sRedstone": {
@@ -60,7 +69,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sTin": {
@@ -76,7 +88,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sSilverLead": {
@@ -95,7 +110,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sIron": {
@@ -111,7 +129,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sNickel": {
@@ -130,7 +151,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sCopper": {
@@ -146,7 +170,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
 	"sAluminum": {
@@ -162,7 +189,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     }
 }
