@@ -10,7 +10,7 @@
 			"temperature": 0.363
 		},
 		"Winter": {
-			"temperature": 0.0935
+			"temperature": 0.15
 		}
 	},
 	"Plains": {
@@ -346,7 +346,7 @@
 			"temperature": 0.363
 		},
 		"Winter": {
-			"temperature": 0.0935
+			"temperature": 0.15
 		}
 	},
 	"Stone Beach": {
