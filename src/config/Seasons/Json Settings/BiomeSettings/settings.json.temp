@@ -1,0 +1,2438 @@
+{
+	"Ocean": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Plains": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Desert": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Extreme Hills": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Taiga": {
+		"Spring": {
+			"temperature": 0.18775
+		},
+		"Summer": {
+			"temperature": 0.27525
+		},
+		"Autumn": {
+			"temperature": 0.1815
+		},
+		"Winter": {
+			"temperature": 0.04675
+		}
+	},
+	"Swampland": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"River": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Hell": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Sky": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"FrozenOcean": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"FrozenRiver": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Ice Plains": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Ice Mountains": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"MushroomIsland": {
+		"Spring": {
+			"temperature": 0.6759
+		},
+		"Summer": {
+			"temperature": 0.9908999
+		},
+		"Autumn": {
+			"temperature": 0.6534
+		},
+		"Winter": {
+			"temperature": 0.1683
+		}
+	},
+	"MushroomIslandShore": {
+		"Spring": {
+			"temperature": 0.6759
+		},
+		"Summer": {
+			"temperature": 0.9908999
+		},
+		"Autumn": {
+			"temperature": 0.6534
+		},
+		"Winter": {
+			"temperature": 0.1683
+		}
+	},
+	"Beach": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"DesertHills": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"ForestHills": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"TaigaHills": {
+		"Spring": {
+			"temperature": 0.18775
+		},
+		"Summer": {
+			"temperature": 0.27525
+		},
+		"Autumn": {
+			"temperature": 0.1815
+		},
+		"Winter": {
+			"temperature": 0.04675
+		}
+	},
+	"Extreme Hills Edge": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Jungle": {
+		"Spring": {
+			"temperature": 0.71344995
+		},
+		"Summer": {
+			"temperature": 1.0459499
+		},
+		"Autumn": {
+			"temperature": 0.6897
+		},
+		"Winter": {
+			"temperature": 0.17765
+		}
+	},
+	"JungleHills": {
+		"Spring": {
+			"temperature": 0.71344995
+		},
+		"Summer": {
+			"temperature": 1.0459499
+		},
+		"Autumn": {
+			"temperature": 0.6897
+		},
+		"Winter": {
+			"temperature": 0.17765
+		}
+	},
+	"JungleEdge": {
+		"Spring": {
+			"temperature": 0.71344995
+		},
+		"Summer": {
+			"temperature": 1.0459499
+		},
+		"Autumn": {
+			"temperature": 0.6897
+		},
+		"Winter": {
+			"temperature": 0.17765
+		}
+	},
+	"Deep Ocean": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Stone Beach": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Cold Beach": {
+		"Spring": {
+			"temperature": 0.03755
+		},
+		"Summer": {
+			"temperature": 0.055049997
+		},
+		"Autumn": {
+			"temperature": 0.0363
+		},
+		"Winter": {
+			"temperature": 0.009350001
+		}
+	},
+	"Birch Forest": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Birch Forest Hills": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Roofed Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Cold Taiga": {
+		"Spring": {
+			"temperature": -0.3755
+		},
+		"Summer": {
+			"temperature": -0.5505
+		},
+		"Autumn": {
+			"temperature": -0.363
+		},
+		"Winter": {
+			"temperature": -0.0935
+		}
+	},
+	"Cold Taiga Hills": {
+		"Spring": {
+			"temperature": -0.3755
+		},
+		"Summer": {
+			"temperature": -0.5505
+		},
+		"Autumn": {
+			"temperature": -0.363
+		},
+		"Winter": {
+			"temperature": -0.0935
+		}
+	},
+	"Mega Taiga": {
+		"Spring": {
+			"temperature": 0.2253
+		},
+		"Summer": {
+			"temperature": 0.3303
+		},
+		"Autumn": {
+			"temperature": 0.2178
+		},
+		"Winter": {
+			"temperature": 0.056100003
+		}
+	},
+	"Mega Taiga Hills": {
+		"Spring": {
+			"temperature": 0.2253
+		},
+		"Summer": {
+			"temperature": 0.3303
+		},
+		"Autumn": {
+			"temperature": 0.2178
+		},
+		"Winter": {
+			"temperature": 0.056100003
+		}
+	},
+	"Extreme Hills+": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Savanna": {
+		"Spring": {
+			"temperature": 0.9012
+		},
+		"Summer": {
+			"temperature": 1.3212
+		},
+		"Autumn": {
+			"temperature": 0.8712
+		},
+		"Winter": {
+			"temperature": 0.22440001
+		}
+	},
+	"Savanna Plateau": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Mesa": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Mesa Plateau F": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Mesa Plateau": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Alps": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Arctic": {
+		"Spring": {
+			"temperature": 0.03755
+		},
+		"Summer": {
+			"temperature": 0.055049997
+		},
+		"Autumn": {
+			"temperature": 0.0363
+		},
+		"Winter": {
+			"temperature": 0.009350001
+		}
+	},
+	"Bamboo Forest": {
+		"Spring": {
+			"temperature": 0.9012
+		},
+		"Summer": {
+			"temperature": 1.3212
+		},
+		"Autumn": {
+			"temperature": 0.8712
+		},
+		"Winter": {
+			"temperature": 0.22440001
+		}
+	},
+	"Bayou": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Bog": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Boreal Forest": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Brushland": {
+		"Spring": {
+			"temperature": 0.9012
+		},
+		"Summer": {
+			"temperature": 1.3212
+		},
+		"Autumn": {
+			"temperature": 0.8712
+		},
+		"Winter": {
+			"temperature": 0.22440001
+		}
+	},
+	"Canyon": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Chaparral": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Cherry Blossom Grove": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Coniferous Forest": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Snowy Coniferous Forest": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Crag": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Dead Forest": {
+		"Spring": {
+			"temperature": 0.3004
+		},
+		"Summer": {
+			"temperature": 0.44039997
+		},
+		"Autumn": {
+			"temperature": 0.2904
+		},
+		"Winter": {
+			"temperature": 0.07480001
+		}
+	},
+	"Dead Swamp": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Deciduous Forest": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Dense Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Eucalyptus Forest": {
+		"Spring": {
+			"temperature": 0.6759
+		},
+		"Summer": {
+			"temperature": 0.9908999
+		},
+		"Autumn": {
+			"temperature": 0.6534
+		},
+		"Winter": {
+			"temperature": 0.1683
+		}
+	},
+	"Fen": {
+		"Spring": {
+			"temperature": 0.3004
+		},
+		"Summer": {
+			"temperature": 0.44039997
+		},
+		"Autumn": {
+			"temperature": 0.2904
+		},
+		"Winter": {
+			"temperature": 0.07480001
+		}
+	},
+	"Flower Field": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Frost Forest": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Fungi Forest": {
+		"Spring": {
+			"temperature": 0.6759
+		},
+		"Summer": {
+			"temperature": 0.9908999
+		},
+		"Autumn": {
+			"temperature": 0.6534
+		},
+		"Winter": {
+			"temperature": 0.1683
+		}
+	},
+	"Garden": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Grassland": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Grove": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Heathland": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Highland": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Jade Cliffs": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Land of Lakes": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Twilight Lake": {
+		"Spring": {
+			"temperature": 0.49566
+		},
+		"Summer": {
+			"temperature": 0.72666
+		},
+		"Autumn": {
+			"temperature": 0.47916004
+		},
+		"Winter": {
+			"temperature": 0.12342001
+		}
+	},
+	"Lush Desert": {
+		"Spring": {
+			"temperature": 0.8261
+		},
+		"Summer": {
+			"temperature": 1.2111
+		},
+		"Autumn": {
+			"temperature": 0.7986
+		},
+		"Winter": {
+			"temperature": 0.20570001
+		}
+	},
+	"Lush Swamp": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Maple Woods": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Marsh": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Meadow": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Moor": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Mountain": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Mystic Grove": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Ominous Woods": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Orchard": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Origin Valley": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Outback": {
+		"Spring": {
+			"temperature": 0.97629994
+		},
+		"Summer": {
+			"temperature": 1.4312999
+		},
+		"Autumn": {
+			"temperature": 0.9438
+		},
+		"Winter": {
+			"temperature": 0.2431
+		}
+	},
+	"Prairie": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Rainforest": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Redwood Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Sacred Springs": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Seasonal Forest": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Shield": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Shrubland": {
+		"Spring": {
+			"temperature": 0.57826996
+		},
+		"Summer": {
+			"temperature": 0.8477699
+		},
+		"Autumn": {
+			"temperature": 0.55902
+		},
+		"Winter": {
+			"temperature": 0.14399
+		}
+	},
+	"Sludgepit": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Steppe": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Temperate Rainforest": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Thicket": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Tropical Rainforest": {
+		"Spring": {
+			"temperature": 0.9012
+		},
+		"Summer": {
+			"temperature": 1.3212
+		},
+		"Autumn": {
+			"temperature": 0.8712
+		},
+		"Winter": {
+			"temperature": 0.22440001
+		}
+	},
+	"Tundra": {
+		"Spring": {
+			"temperature": 0.03755
+		},
+		"Summer": {
+			"temperature": 0.055049997
+		},
+		"Autumn": {
+			"temperature": 0.0363
+		},
+		"Winter": {
+			"temperature": 0.009350001
+		}
+	},
+	"Wasteland": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Wetland": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Woodland": {
+		"Spring": {
+			"temperature": 0.54823
+		},
+		"Summer": {
+			"temperature": 0.80373
+		},
+		"Autumn": {
+			"temperature": 0.52998
+		},
+		"Winter": {
+			"temperature": 0.13651001
+		}
+	},
+	"Xeric Shrubland": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Coral Reef": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Kelp Forest": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Tropics": {
+		"Spring": {
+			"temperature": 0.9012
+		},
+		"Summer": {
+			"temperature": 1.3212
+		},
+		"Autumn": {
+			"temperature": 0.8712
+		},
+		"Winter": {
+			"temperature": 0.22440001
+		}
+	},
+	"Volcano": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Mangrove": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Alps Forest": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Canyon Ravine": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Glacier": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Land of Lakes Marsh": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Meadow Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Oasis": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Quagmire": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Scrubland": {
+		"Spring": {
+			"temperature": 0.9012
+		},
+		"Summer": {
+			"temperature": 1.3212
+		},
+		"Autumn": {
+			"temperature": 0.8712
+		},
+		"Winter": {
+			"temperature": 0.22440001
+		}
+	},
+	"Seasonal Forest Clearing": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Silkglades": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Spruce Woods": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Corrupted Sands": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Phantasmagoric Inferno": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Boneyard": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Visceral Heap": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Undergarden": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Polar Chasm": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Spectral Garden": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Lush River": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Dry River": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Twilight Forest": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Dense Twilight Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Ocean Oil Field": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Desert Oil Field": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Twilight Highlands": {
+		"Spring": {
+			"temperature": 0.3004
+		},
+		"Summer": {
+			"temperature": 0.44039997
+		},
+		"Autumn": {
+			"temperature": 0.2904
+		},
+		"Winter": {
+			"temperature": 0.07480001
+		}
+	},
+	"Sunflower Plains": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Desert M": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Extreme Hills M": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Flower Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Taiga M": {
+		"Spring": {
+			"temperature": 0.18775
+		},
+		"Summer": {
+			"temperature": 0.27525
+		},
+		"Autumn": {
+			"temperature": 0.1815
+		},
+		"Winter": {
+			"temperature": 0.04675
+		}
+	},
+	"Swampland M": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Mushroom Forest": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Twilight Swamp": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Twilight Stream": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Snowy Forest": {
+		"Spring": {
+			"temperature": 0.093875
+		},
+		"Summer": {
+			"temperature": 0.137625
+		},
+		"Autumn": {
+			"temperature": 0.09075
+		},
+		"Winter": {
+			"temperature": 0.023375
+		}
+	},
+	"Twilight Glacier": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Ice Plains Spikes": {
+		"Spring": {
+			"temperature": 0.0
+		},
+		"Summer": {
+			"temperature": 0.0
+		},
+		"Autumn": {
+			"temperature": 0.0
+		},
+		"Winter": {
+			"temperature": 0.0
+		}
+	},
+	"Gravel Beach": {
+		"Spring": {
+			"temperature": 0.18775
+		},
+		"Summer": {
+			"temperature": 0.27525
+		},
+		"Autumn": {
+			"temperature": 0.1815
+		},
+		"Winter": {
+			"temperature": 0.04675
+		}
+	},
+	"Snowy Gravel Beach": {
+		"Spring": {
+			"temperature": 0.03755
+		},
+		"Summer": {
+			"temperature": 0.055049997
+		},
+		"Autumn": {
+			"temperature": 0.0363
+		},
+		"Winter": {
+			"temperature": 0.009350001
+		}
+	},
+	"Rocky Steppe": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Tropical Shrubland": {
+		"Spring": {
+			"temperature": 0.88242495
+		},
+		"Summer": {
+			"temperature": 1.293675
+		},
+		"Autumn": {
+			"temperature": 0.85305
+		},
+		"Winter": {
+			"temperature": 0.219725
+		}
+	},
+	"Jungle M": {
+		"Spring": {
+			"temperature": 0.71344995
+		},
+		"Summer": {
+			"temperature": 1.0459499
+		},
+		"Autumn": {
+			"temperature": 0.6897
+		},
+		"Winter": {
+			"temperature": 0.17765
+		}
+	},
+	"Twilight Clearing": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"JungleEdge M": {
+		"Spring": {
+			"temperature": 0.71344995
+		},
+		"Summer": {
+			"temperature": 1.0459499
+		},
+		"Autumn": {
+			"temperature": 0.6897
+		},
+		"Winter": {
+			"temperature": 0.17765
+		}
+	},
+	"Oak Savanna": {
+		"Spring": {
+			"temperature": 0.6759
+		},
+		"Summer": {
+			"temperature": 0.9908999
+		},
+		"Autumn": {
+			"temperature": 0.6534
+		},
+		"Winter": {
+			"temperature": 0.1683
+		}
+	},
+	"Firefly Forest": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Deep Mushroom Forest": {
+		"Spring": {
+			"temperature": 0.6008
+		},
+		"Summer": {
+			"temperature": 0.88079995
+		},
+		"Autumn": {
+			"temperature": 0.5808
+		},
+		"Winter": {
+			"temperature": 0.14960001
+		}
+	},
+	"Birch Forest M": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Birch Forest Hills M": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	},
+	"Roofed Forest M": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Cold Taiga M": {
+		"Spring": {
+			"temperature": -0.3755
+		},
+		"Summer": {
+			"temperature": -0.5505
+		},
+		"Autumn": {
+			"temperature": -0.363
+		},
+		"Winter": {
+			"temperature": -0.0935
+		}
+	},
+	"Dark Forest Center": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Mega Spruce Taiga": {
+		"Spring": {
+			"temperature": 0.18775
+		},
+		"Summer": {
+			"temperature": 0.27525
+		},
+		"Autumn": {
+			"temperature": 0.1815
+		},
+		"Winter": {
+			"temperature": 0.04675
+		}
+	},
+	"Extreme Hills+ M": {
+		"Spring": {
+			"temperature": 0.1502
+		},
+		"Summer": {
+			"temperature": 0.22019999
+		},
+		"Autumn": {
+			"temperature": 0.1452
+		},
+		"Winter": {
+			"temperature": 0.037400004
+		}
+	},
+	"Savanna M": {
+		"Spring": {
+			"temperature": 0.8261
+		},
+		"Summer": {
+			"temperature": 1.2111
+		},
+		"Autumn": {
+			"temperature": 0.7986
+		},
+		"Winter": {
+			"temperature": 0.20570001
+		}
+	},
+	"Savanna Plateau M": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Mesa (Bryce)": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Mesa Plateau F M": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Mesa Plateau M": {
+		"Spring": {
+			"temperature": 1.502
+		},
+		"Summer": {
+			"temperature": 2.202
+		},
+		"Autumn": {
+			"temperature": 1.452
+		},
+		"Winter": {
+			"temperature": 0.374
+		}
+	},
+	"Highlands Center": {
+		"Spring": {
+			"temperature": 0.2253
+		},
+		"Summer": {
+			"temperature": 0.3303
+		},
+		"Autumn": {
+			"temperature": 0.2178
+		},
+		"Winter": {
+			"temperature": 0.056100003
+		}
+	},
+	"Dark Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"BambooForest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Fire Swamp": {
+		"Spring": {
+			"temperature": 0.751
+		},
+		"Summer": {
+			"temperature": 1.101
+		},
+		"Autumn": {
+			"temperature": 0.726
+		},
+		"Winter": {
+			"temperature": 0.187
+		}
+	},
+	"Thornlands": {
+		"Spring": {
+			"temperature": 0.2253
+		},
+		"Summer": {
+			"temperature": 0.3303
+		},
+		"Autumn": {
+			"temperature": 0.2178
+		},
+		"Winter": {
+			"temperature": 0.056100003
+		}
+	},
+	"Storage Cell": {
+		"Spring": {
+			"temperature": -75.1
+		},
+		"Summer": {
+			"temperature": -110.1
+		},
+		"Autumn": {
+			"temperature": -72.6
+		},
+		"Winter": {
+			"temperature": -18.7
+		}
+	},
+	"Tainted Land": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Magical Forest": {
+		"Spring": {
+			"temperature": 0.5257
+		},
+		"Summer": {
+			"temperature": 0.7707
+		},
+		"Autumn": {
+			"temperature": 0.5082
+		},
+		"Winter": {
+			"temperature": 0.1309
+		}
+	},
+	"Eerie": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Eldritch": {
+		"Spring": {
+			"temperature": 0.3755
+		},
+		"Summer": {
+			"temperature": 0.5505
+		},
+		"Autumn": {
+			"temperature": 0.363
+		},
+		"Winter": {
+			"temperature": 0.0935
+		}
+	},
+	"Lavender Fields": {
+		"Spring": {
+			"temperature": 0.4506
+		},
+		"Summer": {
+			"temperature": 0.6606
+		},
+		"Autumn": {
+			"temperature": 0.4356
+		},
+		"Winter": {
+			"temperature": 0.11220001
+		}
+	}
+}

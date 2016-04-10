@@ -1,0 +1,3490 @@
+{
+	"Spring": {
+		"Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		}
+	},
+	"Summer": {
+		"Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		}
+	},
+	"Autumn": {
+		"Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		}
+	},
+	"Winter": {
+		"Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"ReedGrowthHeight": 3,
+			"ReedGrowthAtMetadata": 15,
+			"ReedReducedGrowthAttemptChance": 1.0
+		}
+	}
+}

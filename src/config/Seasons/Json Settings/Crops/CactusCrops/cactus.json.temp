@@ -1,0 +1,3490 @@
+{
+	"Spring": {
+		"Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		}
+	},
+	"Summer": {
+		"Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		}
+	},
+	"Autumn": {
+		"Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		}
+	},
+	"Winter": {
+		"Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Hell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sky": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenOcean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"FrozenRiver": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Mountains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIsland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"MushroomIslandShore": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"DesertHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"ForestHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"TaigaHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills Edge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleHills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Ocean": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Stone Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Taiga Hills": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Arctic": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bamboo Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bayou": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Bog": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boreal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Brushland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Chaparral": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cherry Blossom Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Coniferous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Crag": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dead Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deciduous Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eucalyptus Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fen": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Frost Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fungi Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grassland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Heathland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jade Cliffs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Lake": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Desert": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Maple Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Moor": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mountain": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mystic Grove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ominous Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Orchard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Origin Valley": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Outback": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Prairie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Redwood Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sacred Springs": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shield": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sludgepit": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Temperate Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thicket": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Rainforest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tundra": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wasteland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Wetland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Woodland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Xeric Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Coral Reef": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Kelp Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropics": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Volcano": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mangrove": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Alps Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Canyon Ravine": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Land of Lakes Marsh": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Meadow Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oasis": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Quagmire": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Scrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Seasonal Forest Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Silkglades": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spruce Woods": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Corrupted Sands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Phantasmagoric Inferno": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Boneyard": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Visceral Heap": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Undergarden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Polar Chasm": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Spectral Garden": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lush River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dry River": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dense Twilight Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ocean Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert Oil Field": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Highlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Sunflower Plains": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Desert M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Flower Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Swampland M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Stream": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Glacier": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Ice Plains Spikes": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Snowy Gravel Beach": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Rocky Steppe": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tropical Shrubland": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Jungle M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Twilight Clearing": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"JungleEdge M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Oak Savanna": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Firefly Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Deep Mushroom Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Birch Forest Hills M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Roofed Forest M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Cold Taiga M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mega Spruce Taiga": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Extreme Hills+ M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Savanna Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa (Bryce)": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau F M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Mesa Plateau M": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Highlands Center": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Dark Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"BambooForest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Fire Swamp": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Thornlands": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Storage Cell": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Tainted Land": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Magical Forest": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eerie": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Eldritch": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		},
+		"Lavender Fields": {
+			"CactusGrowthHeight": 3,
+			"CactusGrowthAtMetadata": 15,
+			"CactusReducedGrowthAttemptChance": 1.0
+		}
+	}
+}
