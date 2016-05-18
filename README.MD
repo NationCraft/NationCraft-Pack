@@ -1,5 +1,8 @@
 # NationCraft Modpack
 
+The current pack version is v1.6-pre6.
+View the release [here](https://github.com/GiovanniPorta/NationCraft-Pack/releases/tag/v1.6-pre6)
+
 The official modpack of the NationCraft community, focusing on a balance between technology, magic, and challenging survival gameplay.
 
 This is a live modpack that will continually evolve and be tweaked to suit the desires of our community as we evolve with it. It is, eternally, a work in progress. 
