@@ -24,7 +24,6 @@ Another One Bites the Dust | 2.9.1
 AppleCore | 1.3.1
 Applied Energistics | rv2-stable-10
 AsieLib | 0.4.5
-Alternate Terrain Generation | 0.12.0
 B3M Time | 1.7.9-07
 BdLib | 1.9.3.107
 BetterBoat | 1.1.0
@@ -42,12 +41,12 @@ BuildCraft Compat | 7.1.3
 Carpenter's Blocks | 3.3.7
 Chisel | 2.9.5.11
 Chisel Facades | 2.12
+Climate Control | 0.5-b53
 CodeChickenCore | 1.0.4.29
 CoFHCore | 3.1.2-325
 ComputerCraft | 1.75
 Computronics | 1.6.0
 CustomNPCs | 1.7.10d
-DecoCraft | 2.3.2
 Dimensional Anchors | 59.0.3
 Doors O' Plenty | 1.0
 EnderIO | 2.2.8.381
@@ -111,6 +110,7 @@ Project Red: Lighting | 4.7.0pre12.95
 QuiverBow | b101d
 RailCraft | 9.12.1
 Random Things | 2.2.4
+Realistic Terrain Gen | 0.7.0
 Recurrent Complex | 0.9.7.1
 RFTools | 4.23
 Seasons Mod | pre-3.0beta12d
