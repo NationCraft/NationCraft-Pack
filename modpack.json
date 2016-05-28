@@ -114,20 +114,6 @@
         ],
         "exclude" : [ ]
       }
-    },
-    {
-      "properties" : {
-        "name" : "Not Enough Keys",
-        "description" : "Mods that adds sorting to the controls screen.",
-        "recommendation" : "starred",
-        "selected" : true
-      },
-      "files" : {
-        "include" : [
-          "mods/*notenoughkeys*"
-        ],
-        "exclude" : [ ]
-      }
     }
   ],
   "userFiles" : {
