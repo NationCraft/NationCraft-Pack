@@ -29,7 +29,7 @@ BdLib | 1.9.3.107
 BetterBoat | 1.1.0
 BetterFPS* | 1.0.1
 BetterStorage | 0.13.1.126
-BiblioCraft | 1.11.4
+BiblioCraft | 1.11.5
 BiblioWoods: BoP | 1.9
 Binnie Patcher | 1.7
 Binnie's Mods | 2.0-pre14
@@ -72,7 +72,7 @@ Immibis Core | 59.1.4
 Immibis Peripherals | 59.0.3
 INpurecore | 1.0.0B9-62
 Inventory Tweaks* | 1.59-dev-152
-IvToolkit | 1.2
+IvToolkit | 1.2.1
 Jabba | 1.2.1a
 JourneyMap* | 5.1.4
 Luppii's Ladders | 0.5.0
@@ -108,7 +108,7 @@ Project Red: Compat | 4.7.0pre12.95
 Project Red: Integration | 4.7.0pre12.95
 Project Red: Lighting | 4.7.0pre12.95
 QuiverBow | b101d
-RailCraft | 9.12.1
+RailCraft | 9.12.2
 Random Things | 2.2.4
 Realistic Terrain Gen | 0.7.0
 Recurrent Complex | 0.9.7.1
