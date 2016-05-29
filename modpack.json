@@ -124,9 +124,6 @@
     "exclude" : [ ]
   },
   "launch" : {
-    "flags" : [
-      "-Dfml.ignoreInvalidMinecraftCertificates=true",
-      "-javaagent:PMLCore/PMLPremain.jar=-MCSide:Client"
-    ]
+    "flags" : [ ]
   }
 }
