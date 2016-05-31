@@ -1,6 +1,6 @@
 # NationCraft Modpack
 
-The current pack version is v1.6-pre6.
+The current pack version is v1.6-pre8.
 View the release [here](https://github.com/GiovanniPorta/NationCraft-Pack/releases/tag/v1.6-pre6).
 
 The official modpack of the NationCraft community, focusing on a balance between technology, magic, and challenging survival gameplay.
@@ -41,7 +41,6 @@ BuildCraft Compat | 7.1.3
 Carpenter's Blocks | 3.3.7
 Chisel | 2.9.5.11
 Chisel Facades | 2.12
-Climate Control | 0.5-b53
 CodeChickenCore | 1.0.4.29
 CoFHCore | 3.1.2-325
 ComputerCraft | 1.75
