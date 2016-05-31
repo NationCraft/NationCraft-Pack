@@ -98,7 +98,7 @@ OpenPeripheral Core | 1.3
 OpenPeripheral Integration | 0.5
 Pam's Clay Spawn | 1.7.10b
 Pam's HarvestCraft | 1.7.10Lb
-Perfect Spawn | 1.4
+Perfect Spawn | 1.1
 PlayerAPI | 1.4
 PneumaticCraft | 1.12.7-150
 Progressive Automation | 1.6.34
