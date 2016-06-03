@@ -73,3 +73,7 @@ harvestcraft:barleyseedItem=minecraft:wheat_seeds+AgriCraft:seedSugarcane
 harvestcraft:cornseedItem=harvestcraft:barleyseedItem+harvestcraft:ryeseedItem
 harvestcraft:ryeseedItem=harvestcraft:barleyseedItem+minecraft:wheat_seeds
 harvestcraft:cottonseedItem=harvestcraft:barleyseedItem+AgriCraft:seedDaisy
+Agricraft:seedCinderpearl=Agricraft:seedCactus+Agricraft:seedTulipRed
+Agricraft:seedShimmerleaf=Agricraft:seedCinderpeal+Agricraft:seedTulipWhite
+Agricraft:seedVishroom=Agricraft:seedShroomBrown+Agricraft:seedShimmerleaf
+Agricraft:seedTaintedRoot=Agricraft:seedVishroom+minecraft:nether_wart
